@@ -10,3 +10,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging is a nondestructive method that combines the changes from the branch onto the tip of another branch. Rebasing moves the whole history of commits to the tip of another branch. This is more linear, but in return you loose data.
 
+Q4: What are you looking forward to this semester?
+
+Answer: Talking to friends.
