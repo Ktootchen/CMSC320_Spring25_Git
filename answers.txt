@@ -6,7 +6,4 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to computational biology. I know it has been used to study telemetry data from animals and better understand how they move through and interact with the environment.
 
-Q3: What is the difference between Merging and Rebasing?
-
-Answer: Merging is a nondestructive method that combines the changes from the branch onto the tip of another branch. Rebasing moves the whole history of commits to the tip of another branch. This is more linear, but in return you loose data.
 
